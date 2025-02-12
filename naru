@@ -1,445 +1,457 @@
 #EXTM3U
-#EXTGRP:Naruto
-#EXTINF:-1 tvg-logo="",001
+#EXTGRP:temporada 1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fmps15jQsy74PjxnaxxeVEyuNnX.jpg",001
 https://archive.org/download/naruto-completo/Naruto%20-%20001.mp4
-#EXTINF:-1 tvg-logo="",002
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fmps15jQsy74PjxnaxxeVEyuNnX.jpg",002
 https://archive.org/download/naruto-completo/Naruto%20-%20002.mp4
-#EXTINF:-1 tvg-logo="",003
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fmps15jQsy74PjxnaxxeVEyuNnX.jpg",003
 https://archive.org/download/naruto-completo/Naruto%20-%20003.mp4
-#EXTINF:-1 tvg-logo="",004
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fmps15jQsy74PjxnaxxeVEyuNnX.jpg",004
 https://archive.org/download/naruto-completo/Naruto%20-%20004.mp4
-#EXTINF:-1 tvg-logo="",005
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fmps15jQsy74PjxnaxxeVEyuNnX.jpg",005
 https://archive.org/download/naruto-completo/Naruto%20-%20005.mp4
-#EXTINF:-1 tvg-logo="",006
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fmps15jQsy74PjxnaxxeVEyuNnX.jpg",006
 https://archive.org/download/naruto-completo/Naruto%20-%20006.mp4
-#EXTINF:-1 tvg-logo="",007
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fmps15jQsy74PjxnaxxeVEyuNnX.jpg",007
 https://archive.org/download/naruto-completo/Naruto%20-%20007.mp4
-#EXTINF:-1 tvg-logo="",008
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fmps15jQsy74PjxnaxxeVEyuNnX.jpg",008
 https://archive.org/download/naruto-completo/Naruto%20-%20008.mp4
-#EXTINF:-1 tvg-logo="",009
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fmps15jQsy74PjxnaxxeVEyuNnX.jpg",009
 https://archive.org/download/naruto-completo/Naruto%20-%20009.mp4
-#EXTINF:-1 tvg-logo="",010
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fmps15jQsy74PjxnaxxeVEyuNnX.jpg",010
 https://archive.org/download/naruto-completo/Naruto%20-%20010.mp4
-#EXTINF:-1 tvg-logo="",011
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fmps15jQsy74PjxnaxxeVEyuNnX.jpg",011
 https://archive.org/download/naruto-completo/Naruto%20-%20011.mp4
-#EXTINF:-1 tvg-logo="",012
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fmps15jQsy74PjxnaxxeVEyuNnX.jpg",012
 https://archive.org/download/naruto-completo/Naruto%20-%20012.mp4
-#EXTINF:-1 tvg-logo="",013
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fmps15jQsy74PjxnaxxeVEyuNnX.jpg",013
 https://archive.org/download/naruto-completo/Naruto%20-%20013.mp4
-#EXTINF:-1 tvg-logo="",014
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fmps15jQsy74PjxnaxxeVEyuNnX.jpg",014
 https://archive.org/download/naruto-completo/Naruto%20-%20014.mp4
-#EXTINF:-1 tvg-logo="",015
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fmps15jQsy74PjxnaxxeVEyuNnX.jpg",015
 https://archive.org/download/naruto-completo/Naruto%20-%20015.mp4
-#EXTINF:-1 tvg-logo="",016
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fmps15jQsy74PjxnaxxeVEyuNnX.jpg",016
 https://archive.org/download/naruto-completo/Naruto%20-%20016.mp4
-#EXTINF:-1 tvg-logo="",017
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fmps15jQsy74PjxnaxxeVEyuNnX.jpg",017
 https://archive.org/download/naruto-completo/Naruto%20-%20017.mp4
-#EXTINF:-1 tvg-logo="",018
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fmps15jQsy74PjxnaxxeVEyuNnX.jpg",018
 https://archive.org/download/naruto-completo/Naruto%20-%20018.mp4
-#EXTINF:-1 tvg-logo="",019
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fmps15jQsy74PjxnaxxeVEyuNnX.jpg",019
 https://archive.org/download/naruto-completo/Naruto%20-%20019.mp4
-#EXTINF:-1 tvg-logo="",020
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fmps15jQsy74PjxnaxxeVEyuNnX.jpg",020
 https://archive.org/download/naruto-completo/Naruto%20-%20020.mp4
-#EXTINF:-1 tvg-logo="",021
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fmps15jQsy74PjxnaxxeVEyuNnX.jpg",021
 https://archive.org/download/naruto-completo/Naruto%20-%20021.mp4
-#EXTINF:-1 tvg-logo="",022
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fmps15jQsy74PjxnaxxeVEyuNnX.jpg",022
 https://archive.org/download/naruto-completo/Naruto%20-%20022.mp4
-#EXTINF:-1 tvg-logo="",023
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fmps15jQsy74PjxnaxxeVEyuNnX.jpg",023
 https://archive.org/download/naruto-completo/Naruto%20-%20023.mp4
-#EXTINF:-1 tvg-logo="",024
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fmps15jQsy74PjxnaxxeVEyuNnX.jpg",024
 https://archive.org/download/naruto-completo/Naruto%20-%20024.mp4
-#EXTINF:-1 tvg-logo="",025
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fmps15jQsy74PjxnaxxeVEyuNnX.jpg",025
 https://archive.org/download/naruto-completo/Naruto%20-%20025.mp4
-#EXTINF:-1 tvg-logo="",026(relleno)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fmps15jQsy74PjxnaxxeVEyuNnX.jpg",026(relleno)
 https://archive.org/download/naruto-completo/Naruto%20-%20026%20%28Relleno%29.mp4
-#EXTINF:-1 tvg-logo="",027
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fmps15jQsy74PjxnaxxeVEyuNnX.jpg",027
 https://archive.org/download/naruto-completo/Naruto%20-%20027.mp4
-#EXTINF:-1 tvg-logo="",028
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fmps15jQsy74PjxnaxxeVEyuNnX.jpg",028
 https://archive.org/download/naruto-completo/Naruto%20-%20028.mp4
-#EXTINF:-1 tvg-logo="",029
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fmps15jQsy74PjxnaxxeVEyuNnX.jpg",029
 https://archive.org/download/naruto-completo/Naruto%20-%20029.mp4
-#EXTINF:-1 tvg-logo="",030
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fmps15jQsy74PjxnaxxeVEyuNnX.jpg",030
 https://archive.org/download/naruto-completo/Naruto%20-%20030.mp4
-#EXTINF:-1 tvg-logo="",031
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fmps15jQsy74PjxnaxxeVEyuNnX.jpg",031
 https://archive.org/download/naruto-completo/Naruto%20-%20031.mp4
-#EXTINF:-1 tvg-logo="",032
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fmps15jQsy74PjxnaxxeVEyuNnX.jpg",032
 https://archive.org/download/naruto-completo/Naruto%20-%20032.mp4
-#EXTINF:-1 tvg-logo="",033
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fmps15jQsy74PjxnaxxeVEyuNnX.jpg",033
 https://archive.org/download/naruto-completo/Naruto%20-%20033.mp4
-#EXTINF:-1 tvg-logo="",034
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fmps15jQsy74PjxnaxxeVEyuNnX.jpg",034
 https://archive.org/download/naruto-completo/Naruto%20-%20034.mp4
-#EXTINF:-1 tvg-logo="",035
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fmps15jQsy74PjxnaxxeVEyuNnX.jpg",035
 https://archive.org/download/naruto-completo/Naruto%20-%20035.mp4
-#EXTINF:-1 tvg-logo="",036
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fmps15jQsy74PjxnaxxeVEyuNnX.jpg",036
 https://archive.org/download/naruto-completo/Naruto%20-%20036.mp4
-#EXTINF:-1 tvg-logo="",037
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fmps15jQsy74PjxnaxxeVEyuNnX.jpg",037
 https://archive.org/download/naruto-completo/Naruto%20-%20037.mp4
-#EXTINF:-1 tvg-logo="",038
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fmps15jQsy74PjxnaxxeVEyuNnX.jpg",038
 https://archive.org/download/naruto-completo/Naruto%20-%20038.mp4
-#EXTINF:-1 tvg-logo="",039
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fmps15jQsy74PjxnaxxeVEyuNnX.jpg",039
 https://archive.org/download/naruto-completo/Naruto%20-%20039.mp4
-#EXTINF:-1 tvg-logo="",040
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fmps15jQsy74PjxnaxxeVEyuNnX.jpg",040
 https://archive.org/download/naruto-completo/Naruto%20-%20040.mp4
-#EXTINF:-1 tvg-logo="",041
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",041
 https://archive.org/download/naruto-completo/Naruto%20-%20041.mp4
-#EXTINF:-1 tvg-logo="",042
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",042
 https://archive.org/download/naruto-completo/Naruto%20-%20042.mp4
-#EXTINF:-1 tvg-logo="",043
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",043
 https://archive.org/download/naruto-completo/Naruto%20-%20043.mp4
-#EXTINF:-1 tvg-logo="",044
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",044
 https://archive.org/download/naruto-completo/Naruto%20-%20044.mp4
-#EXTINF:-1 tvg-logo="",045
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",045
 https://archive.org/download/naruto-completo/Naruto%20-%20045.mp4
-#EXTINF:-1 tvg-logo="",046
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",046
 https://archive.org/download/naruto-completo/Naruto%20-%20046.mp4
-#EXTINF:-1 tvg-logo="",047
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",047
 https://archive.org/download/naruto-completo/Naruto%20-%20047.mp4
-#EXTINF:-1 tvg-logo="",048
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",048
 https://archive.org/download/naruto-completo/Naruto%20-%20048.mp4
-#EXTINF:-1 tvg-logo="",049
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",049
 https://archive.org/download/naruto-completo/Naruto%20-%20049.mp4
-#EXTINF:-1 tvg-logo="",050
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",050
 https://archive.org/download/naruto-completo/Naruto%20-%20050.mp4
-#EXTINF:-1 tvg-logo="",051
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",051
 https://archive.org/download/naruto-completo/Naruto%20-%20051.mp4
-#EXTINF:-1 tvg-logo="",052
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",052
 https://archive.org/download/naruto-completo/Naruto%20-%20052.mp4
-#EXTINF:-1 tvg-logo="",053
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",053
 https://archive.org/download/naruto-completo/Naruto%20-%20053.mp4
-#EXTINF:-1 tvg-logo="",054
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",054
 https://archive.org/download/naruto-completo/Naruto%20-%20054.mp4
-#EXTINF:-1 tvg-logo="",055
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",055
 https://archive.org/download/naruto-completo/Naruto%20-%20055.mp4
-#EXTINF:-1 tvg-logo="",056
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",056
 https://archive.org/download/naruto-completo/Naruto%20-%20056.mp4
-#EXTINF:-1 tvg-logo="",057
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",057
 https://archive.org/download/naruto-completo/Naruto%20-%20057.mp4
-#EXTINF:-1 tvg-logo="",058
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",058
 https://archive.org/download/naruto-completo/Naruto%20-%20058.mp4
-#EXTINF:-1 tvg-logo="",059
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",059
 https://archive.org/download/naruto-completo/Naruto%20-%20059.mp4
-#EXTINF:-1 tvg-logo="",060
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",060
 https://archive.org/download/naruto-completo/Naruto%20-%20060.mp4
-#EXTINF:-1 tvg-logo="",061
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",061
 https://archive.org/download/naruto-completo/Naruto%20-%20061.mp4
-#EXTINF:-1 tvg-logo="",062
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",062
 https://archive.org/download/naruto-completo/Naruto%20-%20062.mp4
-#EXTINF:-1 tvg-logo="",063
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",063
 https://archive.org/download/naruto-completo/Naruto%20-%20063.mp4
-#EXTINF:-1 tvg-logo="",064
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",064
 https://archive.org/download/naruto-completo/Naruto%20-%20064.mp4
-#EXTINF:-1 tvg-logo="",065
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",065
 https://archive.org/download/naruto-completo/Naruto%20-%20065.mp4
-#EXTINF:-1 tvg-logo="",066
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",066
 https://archive.org/download/naruto-completo/Naruto%20-%20066.mp4
-#EXTINF:-1 tvg-logo="",067
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",067
 https://archive.org/download/naruto-completo/Naruto%20-%20067.mp4
-#EXTINF:-1 tvg-logo="",068
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",068
 https://archive.org/download/naruto-completo/Naruto%20-%20068.mp4
-#EXTINF:-1 tvg-logo="",069
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",069
 https://archive.org/download/naruto-completo/Naruto%20-%20069.mp4
-#EXTINF:-1 tvg-logo="",070
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",070
 https://archive.org/download/naruto-completo/Naruto%20-%20070.mp4
-#EXTINF:-1 tvg-logo="",071
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",071
 https://archive.org/download/naruto-completo/Naruto%20-%20071.mp4
-#EXTINF:-1 tvg-logo="",072
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",072
 https://archive.org/download/naruto-completo/Naruto%20-%20072.mp4
-#EXTINF:-1 tvg-logo="",073
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",073
 https://archive.org/download/naruto-completo/Naruto%20-%20073.mp4
-#EXTINF:-1 tvg-logo="",074
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",074
 https://archive.org/download/naruto-completo/Naruto%20-%20074.mp4
-#EXTINF:-1 tvg-logo="",075
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",075
 https://archive.org/download/naruto-completo/Naruto%20-%20075.mp4
-#EXTINF:-1 tvg-logo="",076
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",076
 https://archive.org/download/naruto-completo/Naruto%20-%20076.mp4
-#EXTINF:-1 tvg-logo="",077
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",077
 https://archive.org/download/naruto-completo/Naruto%20-%20077.mp4
-#EXTINF:-1 tvg-logo="",078
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",078
 https://archive.org/download/naruto-completo/Naruto%20-%20078.mp4
-#EXTINF:-1 tvg-logo="",079
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",079
 https://archive.org/download/naruto-completo/Naruto%20-%20079.mp4
-#EXTINF:-1 tvg-logo="",080
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",080
 https://archive.org/download/naruto-completo/Naruto%20-%20080.mp4
-#EXTINF:-1 tvg-logo="",081
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",081
 https://archive.org/download/naruto-completo/Naruto%20-%20081.mp4
-#EXTINF:-1 tvg-logo="",082
+
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",082
 https://archive.org/download/naruto-completo/Naruto%20-%20082.mp4
-#EXTINF:-1 tvg-logo="",083
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",083
 https://archive.org/download/naruto-completo/Naruto%20-%20083.mp4
-#EXTINF:-1 tvg-logo="",084
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",084
 https://archive.org/download/naruto-completo/Naruto%20-%20084.mp4
-#EXTINF:-1 tvg-logo="",085
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",085
 https://archive.org/download/naruto-completo/Naruto%20-%20085.mp4
-#EXTINF:-1 tvg-logo="",086
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",086
 https://archive.org/download/naruto-completo/Naruto%20-%20086.mp4
-#EXTINF:-1 tvg-logo="",087
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",087
 https://archive.org/download/naruto-completo/Naruto%20-%20087.mp4
-#EXTINF:-1 tvg-logo="",088
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",088
 https://archive.org/download/naruto-completo/Naruto%20-%20088.mp4
-#EXTINF:-1 tvg-logo="",089
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",089
 https://archive.org/download/naruto-completo/Naruto%20-%20089.mp4
-#EXTINF:-1 tvg-logo="",090
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",090
 https://archive.org/download/naruto-completo/Naruto%20-%20090.mp4
-#EXTINF:-1 tvg-logo="",091
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",091
 https://archive.org/download/naruto-completo/Naruto%20-%20090.mp4
-#EXTINF:-1 tvg-logo="",092
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",092
 https://archive.org/download/naruto-completo/Naruto%20-%20091.mp4
-#EXTINF:-1 tvg-logo="",093
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",093
 https://archive.org/download/naruto-completo/Naruto%20-%20092.mp4
-#EXTINF:-1 tvg-logo="",094
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",094
 https://archive.org/download/naruto-completo/Naruto%20-%20093.mp4
-#EXTINF:-1 tvg-logo="",095
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",095
 https://archive.org/download/naruto-completo/Naruto%20-%20094.mp4
-#EXTINF:-1 tvg-logo="",096
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",096
 https://archive.org/download/naruto-completo/Naruto%20-%20096.mp4
-#EXTINF:-1 tvg-logo="",097(relleno)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",097(relleno)
 https://archive.org/download/naruto-completo/Naruto%20-%20097%20%28Relleno%29.mp4
-#EXTINF:-1 tvg-logo="",098
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",098
 https://archive.org/download/naruto-completo/Naruto%20-%20098.mp4
-#EXTINF:-1 tvg-logo="",099
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",099
 https://archive.org/download/naruto-completo/Naruto%20-%20099.mp4
-#EXTINF:-1 tvg-logo="",100
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",100
 https://archive.org/download/naruto-completo/Naruto%20-%20100.mp4
-#EXTINF:-1 tvg-logo="",101(relleno)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",101(relleno)
 https://archive.org/download/naruto-completo/Naruto%20-%20101%20%28Relleno%29.mp4
-#EXTINF:-1 tvg-logo="",102(relleno)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",102(relleno)
 https://archive.org/download/naruto-completo/Naruto%20-%20102%20%28Relleno%29.mp4
-#EXTINF:-1 tvg-logo="",103(relleno)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",103(relleno)
 https://archive.org/download/naruto-completo/Naruto%20-%20103%20%28Relleno%29.mp4
-#EXTINF:-1 tvg-logo="",104(relleno)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",104(relleno)
 https://archive.org/download/naruto-completo/Naruto%20-%20104%20%28Relleno%29.mp4
-#EXTINF:-1 tvg-logo="",105(relleno)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",105(relleno)
 https://archive.org/download/naruto-completo/Naruto%20-%20105%20%28Relleno%29.mp4
-#EXTINF:-1 tvg-logo="",106(relleno)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",106(relleno)
 https://archive.org/download/naruto-completo/Naruto%20-%20106%20%28Relleno%29.mp4
-#EXTINF:-1 tvg-logo="",107
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",107
 https://archive.org/download/naruto-completo/Naruto%20-%20107.mp4
-#EXTINF:-1 tvg-logo="",108
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",108
 https://archive.org/download/naruto-completo/Naruto%20-%20108.mp4
-#EXTINF:-1 tvg-logo="",109
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",109
 https://archive.org/download/naruto-completo/Naruto%20-%20109.mp4
-#EXTINF:-1 tvg-logo="",110
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",110
 https://archive.org/download/naruto-completo/Naruto%20-%20110.mp4
-#EXTINF:-1 tvg-logo="",111
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",111
 https://archive.org/download/naruto-completo/Naruto%20-%20111.mp4
-#EXTINF:-1 tvg-logo="",112
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",112
 https://archive.org/download/naruto-completo/Naruto%20-%20112.mp4
-#EXTINF:-1 tvg-logo="",113
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",113
 https://archive.org/download/naruto-completo/Naruto%20-%20113.mp4
-#EXTINF:-1 tvg-logo="",114
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",114
 https://archive.org/download/naruto-completo/Naruto%20-%20114.mp4
-#EXTINF:-1 tvg-logo="",115
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",115
 https://archive.org/download/naruto-completo/Naruto%20-%20115.mp4
-#EXTINF:-1 tvg-logo="",116
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",116
 https://archive.org/download/naruto-completo/Naruto%20-%20116.mp4
-#EXTINF:-1 tvg-logo="",117
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",117
 https://archive.org/download/naruto-completo/Naruto%20-%20117.mp4
-#EXTINF:-1 tvg-logo="",118
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",118
 https://archive.org/download/naruto-completo/Naruto%20-%20118.mp4
-#EXTINF:-1 tvg-logo="",119
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",119
 https://archive.org/download/naruto-completo/Naruto%20-%20119.mp4
-#EXTINF:-1 tvg-logo="",120
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",120
 https://archive.org/download/naruto-completo/Naruto%20-%20120.mp4
-#EXTINF:-1 tvg-logo="",121
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",121
 https://archive.org/download/naruto-completo/Naruto%20-%20121.mp4
-#EXTINF:-1 tvg-logo="",122
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",122
 https://archive.org/download/naruto-completo/Naruto%20-%20122.mp4
-#EXTINF:-1 tvg-logo="",123
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",123
 https://archive.org/download/naruto-completo/Naruto%20-%20123.mp4
-#EXTINF:-1 tvg-logo="",124
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",124
 https://archive.org/download/naruto-completo/Naruto%20-%20124.mp4
-#EXTINF:-1 tvg-logo="",125
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",125
 https://archive.org/download/naruto-completo/Naruto%20-%20125.mp4
-#EXTINF:-1 tvg-logo="",126
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",126
 https://archive.org/download/naruto-completo/Naruto%20-%20126.mp4
-#EXTINF:-1 tvg-logo="",127
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",127
 https://archive.org/download/naruto-completo/Naruto%20-%20127.mp4
-#EXTINF:-1 tvg-logo="",128
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",128
 https://archive.org/download/naruto-completo/Naruto%20-%20128.mp4
-#EXTINF:-1 tvg-logo="",129
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",129
 https://archive.org/download/naruto-completo/Naruto%20-%20129.mp4
-#EXTINF:-1 tvg-logo="",130
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",130
 https://archive.org/download/naruto-completo/Naruto%20-%20130.mp4
-#EXTINF:-1 tvg-logo="",131
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",131
 https://archive.org/download/naruto-completo/Naruto%20-%20131.mp4
-#EXTINF:-1 tvg-logo="",132
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",132
 https://archive.org/download/naruto-completo/Naruto%20-%20132.mp4
-#EXTINF:-1 tvg-logo="",133
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",133
 https://archive.org/download/naruto-completo/Naruto%20-%20133.mp4
-#EXTINF:-1 tvg-logo="",134
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",134
 https://archive.org/download/naruto-completo/Naruto%20-%20134.mp4
-#EXTINF:-1 tvg-logo="",135
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",135
 https://archive.org/download/naruto-completo/Naruto%20-%20135.mp4
-#EXTINF:-1 tvg-logo="",136(relleno)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",136(relleno)
 https://archive.org/download/naruto-completo/Naruto%20-%20136%20%28Relleno%29.mp4
-#EXTINF:-1 tvg-logo="",137(relleno)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",137(relleno)
 https://archive.org/download/naruto-completo/Naruto%20-%20137%20%20%28Relleno%29.mp4
-#EXTINF:-1 tvg-logo="",138(relleno)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",138(relleno)
 https://archive.org/download/naruto-completo/Naruto%20-%20138%20%28Relleno%29.mp4
-#EXTINF:-1 tvg-logo="",139(relleno)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",139(relleno)
 https://archive.org/download/naruto-completo/Naruto%20-%20139%20%28Relleno%29.mp4
-#EXTINF:-1 tvg-logo="",140(relleno)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",140(relleno)
 https://archive.org/download/naruto-completo/Naruto%20-%20140%20%20%28Relleno%29.mp4
-#EXTINF:-1 tvg-logo="",141(mixto)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",141(mixto)
 https://archive.org/download/naruto-completo/Naruto%20-%20141%20%28Mixto%29.mp4
-#EXTINF:-1 tvg-logo="",142(mixto)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",142(mixto)
 https://archive.org/download/naruto-completo/Naruto%20-%20142%20%28Mixto%29.mp4
-#EXTINF:-1 tvg-logo="",143(relleno)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",143(relleno)
 https://archive.org/download/naruto-completo/Naruto%20-%20143%20%28Relleno%29.mp4
-#EXTINF:-1 tvg-logo="",144(relleno)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",144(relleno)
 https://archive.org/download/naruto-completo/Naruto%20-%20144%20%28Relleno%29.mp4
-#EXTINF:-1 tvg-logo="",145(relleno)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",145(relleno)
 https://archive.org/download/naruto-completo/Naruto%20-%20145%20%28Relleno%29.mp4
-#EXTINF:-1 tvg-logo="",146(relleno)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",146(relleno)
 https://archive.org/download/naruto-completo/Naruto%20-%20146%20%28Relleno%29.mp4
-#EXTINF:-1 tvg-logo="",147(relleno)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",147(relleno)
 https://archive.org/download/naruto-completo/Naruto%20-%20147%20%28Relleno%29.mp4
-#EXTINF:-1 tvg-logo="",148(relleno)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",148(relleno)
 https://archive.org/download/naruto-completo/Naruto%20-%20148%20%28Relleno%29.mp4
-#EXTINF:-1 tvg-logo="",149(relleno)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",149(relleno)
 https://archive.org/download/naruto-completo/Naruto%20-%20149%20%28Relleno%29.mp4
-#EXTINF:-1 tvg-logo="",150(relleno)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",150(relleno)
 https://archive.org/download/naruto-completo/Naruto%20-%20150%20%28Relleno%29.mp4
-#EXTINF:-1 tvg-logo="",151(relleno)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",151(relleno)
 https://archive.org/download/naruto-completo/Naruto%20-%20151%20%28Relleno%29.mp4
-#EXTINF:-1 tvg-logo="",152(relleno)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",152(relleno)
 https://archive.org/download/naruto-completo/Naruto%20-%20152%20%28Relleno%29.mp4
-#EXTINF:-1 tvg-logo="",153(relleno)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",153(relleno)
 https://archive.org/download/naruto-completo/Naruto%20-%20153%20%28Relleno%29.mp4
-#EXTINF:-1 tvg-logo="",154(relleno)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",154(relleno)
 https://archive.org/download/naruto-completo/Naruto%20-%20154%20%28Relleno%29.mp4
-#EXTINF:-1 tvg-logo="",155(relleno)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",155(relleno)
 https://archive.org/download/naruto-completo/Naruto%20-%20155%20%28Relleno%29.mp4
-#EXTINF:-1 tvg-logo="",156(relleno)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",156(relleno)
 https://archive.org/download/naruto-completo/Naruto%20-%20156%20%28Relleno%29.mp4
-#EXTINF:-1 tvg-logo="",157(relleno)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",157(relleno)
 https://archive.org/download/naruto-completo/Naruto%20-%20157%20%28Relleno%29.mp4
-#EXTINF:-1 tvg-logo="",158(relleno)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",158(relleno)
 https://archive.org/download/naruto-completo/Naruto%20-%20158%20%28Relleno%29.mp4
-#EXTINF:-1 tvg-logo="",159(relleno)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",159(relleno)
 https://archive.org/download/naruto-completo/Naruto%20-%20159%20%28Relleno%29.mp4
-#EXTINF:-1 tvg-logo="",160(relleno)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",160(relleno)
 https://archive.org/download/naruto-completo/Naruto%20-%20160%20%28Relleno%29.mp4
-#EXTINF:-1 tvg-logo="",161(relleno)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",161(relleno)
 https://archive.org/download/naruto-completo/Naruto%20-%20161%20%28Relleno%29.mp4
-#EXTINF:-1 tvg-logo="",162(relleno)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",162(relleno)
 https://archive.org/download/naruto-completo/Naruto%20-%20162%20%28Relleno%29.mp4
-#EXTINF:-1 tvg-logo="",163(relleno)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",163(relleno)
 https://archive.org/download/naruto-completo/Naruto%20-%20163%20%28Relleno%29.mp4
-#EXTINF:-1 tvg-logo="",164(relleno)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",164(relleno)
 https://archive.org/download/naruto-completo/Naruto%20-%20164%20%28Relleno%29.mp4
-#EXTINF:-1 tvg-logo="",165(relleno)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",165(relleno)
 https://archive.org/download/naruto-completo/Naruto%20-%20165%20%28Relleno%29.mp4
-#EXTINF:-1 tvg-logo="",166(relleno)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",166(relleno)
 https://archive.org/download/naruto-completo/Naruto%20-%20166%20%28Relleno%29.mp4
-#EXTINF:-1 tvg-logo="",167(relleno)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",167(relleno)
 https://archive.org/download/naruto-completo/Naruto%20-%20167%20%28Relleno%29.mp4
-#EXTINF:-1 tvg-logo="",168(relleno)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",168(relleno)
 https://archive.org/download/naruto-completo/Naruto%20-%20168%20%28Relleno%29.mp4
-#EXTINF:-1 tvg-logo="",169(relleno)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",169(relleno)
 https://archive.org/download/naruto-completo/Naruto%20-%20169%20%28Relleno%29.mp4
-#EXTINF:-1 tvg-logo="",170(relleno)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",170(relleno)
 https://archive.org/download/naruto-completo/Naruto%20-%20170%20%28Relleno%29.mp4
-#EXTINF:-1 tvg-logo="",171(relleno)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",171(relleno)
 https://archive.org/download/naruto-completo/Naruto%20-%20171%20%28Relleno%29.mp4
-#EXTINF:-1 tvg-logo="",172(relleno)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",172(relleno)
 https://archive.org/download/naruto-completo/Naruto%20-%20172%20%28Relleno%29.mp4
-#EXTINF:-1 tvg-logo="",173(relleno)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",173(relleno)
 https://archive.org/download/naruto-completo/Naruto%20-%20173%20%28Relleno%29.mp4
-#EXTINF:-1 tvg-logo="",174(relleno)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",174(relleno)
 https://archive.org/download/naruto-completo/Naruto%20-%20174%20%28Relleno%29.mp4
-#EXTINF:-1 tvg-logo="",175(relleno)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",175(relleno)
 https://archive.org/download/naruto-completo/Naruto%20-%20175%20%28Relleno%29.mp4
-#EXTINF:-1 tvg-logo="",176(relleno)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",176(relleno)
 https://archive.org/download/naruto-completo/Naruto%20-%20176%20%28Relleno%29.mp4
-#EXTINF:-1 tvg-logo="",177(relleno)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",177(relleno)
 https://archive.org/download/naruto-completo/Naruto%20-%20177%20%28Relleno%29.mp4
-#EXTINF:-1 tvg-logo="",178(relleno)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",178(relleno)
 https://archive.org/download/naruto-completo/Naruto%20-%20178%20%28Relleno%29.mp4
-#EXTINF:-1 tvg-logo="",179(relleno)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",179(relleno)
 https://archive.org/download/naruto-completo/Naruto%20-%20179%20%28Relleno%29.mp4
-#EXTINF:-1 tvg-logo="",180(relleno)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",180(relleno)
 https://archive.org/download/naruto-completo/Naruto%20-%20180%20%28Relleno%29.mp4
-#EXTINF:-1 tvg-logo="",181(relleno)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",181(relleno)
 https://archive.org/download/naruto-completo/Naruto%20-%20181%20%28Relleno%29.mp4
-#EXTINF:-1 tvg-logo="",182(relleno)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",182(relleno)
 https://archive.org/download/naruto-completo/Naruto%20-%20182%20%28Relleno%29.mp4
-#EXTINF:-1 tvg-logo="",183(relleno)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",183(relleno)
 https://archive.org/download/naruto-completo/Naruto%20-%20183%20%28Relleno%29.mp4
-#EXTINF:-1 tvg-logo="",184(relleno)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",184(relleno)
 https://archive.org/download/naruto-completo/Naruto%20-%20184%20%28Relleno%29.mp4
-#EXTINF:-1 tvg-logo="",185(relleno)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",185(relleno)
 https://archive.org/download/naruto-completo/Naruto%20-%20185%20%28Relleno%29.mp4
-#EXTINF:-1 tvg-logo="",186(relleno)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",186(relleno)
 https://archive.org/download/naruto-completo/Naruto%20-%20186%20%28Relleno%29.mp4
-#EXTINF:-1 tvg-logo="",187(relleno)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",187(relleno)
 https://archive.org/download/naruto-completo/Naruto%20-%20187%20%28Relleno%29.mp4
-#EXTINF:-1 tvg-logo="",188(relleno)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",188(relleno)
 https://archive.org/download/naruto-completo/Naruto%20-%20188%20%28Relleno%29.mp4
-#EXTINF:-1 tvg-logo="",189(relleno)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",189(relleno)
 https://archive.org/download/naruto-completo/Naruto%20-%20189%20%28Relleno%29.mp4
-#EXTINF:-1 tvg-logo="",190(relleno)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",190(relleno)
 https://archive.org/download/naruto-completo/Naruto%20-%20190%20%28Relleno%29.mp4
-#EXTINF:-1 tvg-logo="",191(relleno)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",191(relleno)
 https://archive.org/download/naruto-completo/Naruto%20-%20191%20%28Relleno%29.mp4
-#EXTINF:-1 tvg-logo="",192(relleno)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",192(relleno)
 https://archive.org/download/naruto-completo/Naruto%20-%20192%20%28Relleno%29.mp4
-#EXTINF:-1 tvg-logo="",193(relleno)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",193(relleno)
 https://archive.org/download/naruto-completo/Naruto%20-%20193%20%28Relleno%29.mp4
-#EXTINF:-1 tvg-logo="",194(relleno)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",194(relleno)
 https://archive.org/download/naruto-completo/Naruto%20-%20194%20%28Relleno%29.mp4
-#EXTINF:-1 tvg-logo="",195(relleno)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",195(relleno)
 https://archive.org/download/naruto-completo/Naruto%20-%20195%20%28Relleno%29.mp4
-#EXTINF:-1 tvg-logo="",196(relleno)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",196(relleno)
 https://archive.org/download/naruto-completo/Naruto%20-%20196%20%28Relleno%29.mp4
-#EXTINF:-1 tvg-logo="",197(relleno)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",197(relleno)
 https://archive.org/download/naruto-completo/Naruto%20-%20197%20%28Relleno%29.mp4
-#EXTINF:-1 tvg-logo="",198(relleno)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",198(relleno)
 https://archive.org/download/naruto-completo/Naruto%20-%20198%20%28Relleno%29.mp4
-#EXTINF:-1 tvg-logo="",199(relleno)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",199(relleno)
 https://archive.org/download/naruto-completo/Naruto%20-%20199%20%28Relleno%29.mp4
-#EXTINF:-1 tvg-logo="",200(relleno)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",200(relleno)
 https://archive.org/download/naruto-completo/Naruto%20-%20200%20%28Relleno%29.mp4
-#EXTINF:-1 tvg-logo="",201(relleno)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",201(relleno)
 https://archive.org/download/naruto-completo/Naruto%20-%20201%20%28Relleno%29.mp4
-#EXTINF:-1 tvg-logo="",202(relleno)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",202(relleno)
 https://archive.org/download/naruto-completo/Naruto%20-%20202%20%28Relleno%29.mp4
-#EXTINF:-1 tvg-logo="",203(relleno)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",203(relleno)
 https://archive.org/download/naruto-completo/Naruto%20-%20203%20%28Relleno%29.mp4
-#EXTINF:-1 tvg-logo="",204(relleno)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",204(relleno)
 https://archive.org/download/naruto-completo/Naruto%20-%20204%20%28Relleno%29.mp4
-#EXTINF:-1 tvg-logo="",205(relleno)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",205(relleno)
 https://archive.org/download/naruto-completo/Naruto%20-%20205%20%28Relleno%29.mp4
-#EXTINF:-1 tvg-logo="",206(relleno)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",206(relleno)
 https://archive.org/download/naruto-completo/Naruto%20-%20206%20%28Relleno%29.mp4
-#EXTINF:-1 tvg-logo="",207(relleno)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",207(relleno)
 https://archive.org/download/naruto-completo/Naruto%20-%20207%20%28Relleno%29.mp4
-#EXTINF:-1 tvg-logo="",208(relleno)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",208(relleno)
 https://archive.org/download/naruto-completo/Naruto%20-%20208%20%28Relleno%29.mp4
-#EXTINF:-1 tvg-logo="",209(relleno)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",209(relleno)
 https://archive.org/download/naruto-completo/Naruto%20-%20209%20%28Relleno%29.mp4
-#EXTINF:-1 tvg-logo="",210(relleno)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",210(relleno)
 https://archive.org/download/naruto-completo/Naruto%20-%20210%20%28Relleno%29.mp4
-#EXTINF:-1 tvg-logo="",211(relleno)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",211(relleno)
 https://archive.org/download/naruto-completo/Naruto%20-%20211%20%28Relleno%29.mp4
-#EXTINF:-1 tvg-logo="",212(relleno)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",212(relleno)
 https://archive.org/download/naruto-completo/Naruto%20-%20212%20%28Relleno%29.mp4
-#EXTINF:-1 tvg-logo="",213(relleno)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",213(relleno)
 https://archive.org/download/naruto-completo/Naruto%20-%20213%20%28Relleno%29.mp4
-#EXTINF:-1 tvg-logo="",214(relleno)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",214(relleno)
 https://archive.org/download/naruto-completo/Naruto%20-%20214%20%28Relleno%29.mp4
-#EXTINF:-1 tvg-logo="",215(relleno)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",215(relleno)
 https://archive.org/download/naruto-completo/Naruto%20-%20215%20%28Relleno%29.mp4
-#EXTINF:-1 tvg-logo="",216(relleno)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",216(relleno)
 https://archive.org/download/naruto-completo/Naruto%20-%20216%20%28Relleno%29.mp4
-#EXTINF:-1 tvg-logo="",217(relleno)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",217(relleno)
 https://archive.org/download/naruto-completo/Naruto%20-%20217%20%28Relleno%29.mp4
-#EXTINF:-1 tvg-logo="",218(relleno)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",218(relleno)
 https://archive.org/download/naruto-completo/Naruto%20-%20218%20%28Relleno%29.mp4
-#EXTINF:-1 tvg-logo="",219(relleno)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",219(relleno)
 https://archive.org/download/naruto-completo/Naruto%20-%20219%20%28Relleno%29.mp4
-#EXTINF:-1 tvg-logo="",220(relleno)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",220(relleno)
 https://archive.org/download/naruto-completo/Naruto%20-%20220%20%28Mixto%29.mp4
+
+
+
+
+
+
+
 
 
 #EXTGRP:Naruto Shippuden
