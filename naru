@@ -80,7 +80,6 @@ https://archive.org/download/naruto-completo/Naruto%20-%20038.mp4
 https://archive.org/download/naruto-completo/Naruto%20-%20039.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fmps15jQsy74PjxnaxxeVEyuNnX.jpg",040
 https://archive.org/download/naruto-completo/Naruto%20-%20040.mp4
-
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",041
 https://archive.org/download/naruto-completo/Naruto%20-%20041.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",042
@@ -105,7 +104,6 @@ https://archive.org/download/naruto-completo/Naruto%20-%20050.mp4
 https://archive.org/download/naruto-completo/Naruto%20-%20051.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",052
 https://archive.org/download/naruto-completo/Naruto%20-%20052.mp4
-
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",053
 https://archive.org/download/naruto-completo/Naruto%20-%20053.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",054
@@ -164,9 +162,6 @@ https://archive.org/download/naruto-completo/Naruto%20-%20079.mp4
 https://archive.org/download/naruto-completo/Naruto%20-%20080.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",081
 https://archive.org/download/naruto-completo/Naruto%20-%20081.mp4
-
-
-
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",082
 https://archive.org/download/naruto-completo/Naruto%20-%20082.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",083
@@ -447,14 +442,61 @@ https://archive.org/download/naruto-completo/Naruto%20-%20219%20%28Relleno%29.mp
 https://archive.org/download/naruto-completo/Naruto%20-%20220%20%28Mixto%29.mp4
 
 
-
-
-
-
-
-
-
 #EXTGRP:Naruto Shippuden
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qLMYx1h38OY6PcNkHDkZeCGlaOU.jpg",1
+https://archive.org/download/naruto-completo/Naruto%20Shippuden%20-%20001.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qLMYx1h38OY6PcNkHDkZeCGlaOU.jpg",2
+https://archive.org/download/naruto-completo/Naruto%20Shippuden%20-%20002.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qLMYx1h38OY6PcNkHDkZeCGlaOU.jpg",3
+https://archive.org/download/naruto-completo/Naruto%20Shippuden%20-%20003.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qLMYx1h38OY6PcNkHDkZeCGlaOU.jpg",4
+https://archive.org/download/naruto-completo/Naruto%20Shippuden%20-%20004.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qLMYx1h38OY6PcNkHDkZeCGlaOU.jpg",5
+https://archive.org/download/naruto-completo/Naruto%20Shippuden%20-%20005.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qLMYx1h38OY6PcNkHDkZeCGlaOU.jpg",6
+https://archive.org/download/naruto-completo/Naruto%20Shippuden%20-%20006.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qLMYx1h38OY6PcNkHDkZeCGlaOU.jpg",7
+https://archive.org/download/naruto-completo/Naruto%20Shippuden%20-%20007.ia.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qLMYx1h38OY6PcNkHDkZeCGlaOU.jpg",8
+https://archive.org/download/naruto-completo/Naruto%20Shippuden%20-%20008.ia.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qLMYx1h38OY6PcNkHDkZeCGlaOU.jpg",9
+https://archive.org/download/naruto-completo/Naruto%20Shippuden%20-%20009.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qLMYx1h38OY6PcNkHDkZeCGlaOU.jpg",10
+https://archive.org/download/naruto-completo/Naruto%20Shippuden%20-%20010.ia.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qLMYx1h38OY6PcNkHDkZeCGlaOU.jpg",11
+https://archive.org/download/naruto-completo/Naruto%20Shippuden%20-%20011.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qLMYx1h38OY6PcNkHDkZeCGlaOU.jpg",12
+https://archive.org/download/naruto-completo/Naruto%20Shippuden%20-%20012.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qLMYx1h38OY6PcNkHDkZeCGlaOU.jpg",13
+https://archive.org/download/naruto-completo/Naruto%20Shippuden%20-%20013.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qLMYx1h38OY6PcNkHDkZeCGlaOU.jpg",14
+https://archive.org/download/naruto-completo/Naruto%20Shippuden%20-%20014.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qLMYx1h38OY6PcNkHDkZeCGlaOU.jpg",15
+https://archive.org/download/naruto-completo/Naruto%20Shippuden%20-%20015.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qLMYx1h38OY6PcNkHDkZeCGlaOU.jpg",16
+https://archive.org/download/naruto-completo/Naruto%20Shippuden%20-%20016.ia.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qLMYx1h38OY6PcNkHDkZeCGlaOU.jpg",17
+https://archive.org/download/naruto-completo/Naruto%20Shippuden%20-%20017.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qLMYx1h38OY6PcNkHDkZeCGlaOU.jpg",18
+https://archive.org/download/naruto-completo/Naruto%20Shippuden%20-%20018.ia.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qLMYx1h38OY6PcNkHDkZeCGlaOU.jpg",19
+https://archive.org/download/naruto-completo/Naruto%20Shippuden%20-%20019.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qLMYx1h38OY6PcNkHDkZeCGlaOU.jpg",20
+https://archive.org/download/naruto-completo/Naruto%20Shippuden%20-%20020.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qLMYx1h38OY6PcNkHDkZeCGlaOU.jpg",21
+https://archive.org/download/naruto-completo/Naruto%20Shippuden%20-%20021.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qLMYx1h38OY6PcNkHDkZeCGlaOU.jpg",22
+https://archive.org/download/naruto-completo/Naruto%20Shippuden%20-%20022.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qLMYx1h38OY6PcNkHDkZeCGlaOU.jpg",23
+https://archive.org/download/naruto-completo/Naruto%20Shippuden%20-%20023.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qLMYx1h38OY6PcNkHDkZeCGlaOU.jpg",24
+https://archive.org/download/naruto-completo/Naruto%20Shippuden%20-%20024.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qLMYx1h38OY6PcNkHDkZeCGlaOU.jpg",25
+https://archive.org/download/naruto-completo/Naruto%20Shippuden%20-%20025.mp4
+
+
+
 
 
 
